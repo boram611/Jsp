@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Intro</title>
+    <meta name="author" content="Matthew Howell"/>
+    <meta name="description" content="fullPage continuous scrolling demo."/>
+    <meta name="keywords" content="fullpage,jquery,demo,scroll,loop,continuous"/>
+    <meta name="Resource-type" content="Document"/>
+
+<script src="./js/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="./js/fullpage.css"/>
+    <link rel="stylesheet" typ
+    e="text/css" href="./js/examples.css"/>
+    <style>
+    #btn{
+    height: 304px;
+	width: 320px;
+	
+	margin-top: 700px;
+	
+	float: right;
+	
+	
+	padding-right: 220px;
+    }
+  #btn a{
+	font-size: 35px;
+	line-height: 200%;
+	font-weight: bold;
+	color: #FFF;
+	
+}
+#btn a:hover {
+	font-size: 35px;
+	line-height: 200%;
+	font-weight: bold;
+	color: #000;
+	
+}
+  
+ 
+    </style>
+    
+
+    <!--[if IE]>
+    <script type="text/javascript">
+        var console = {
+            log: function () {
+            }
+        };
+    </script>
+    <![endif]-->
+</head>
+<body>
+
+
+<div id="fullpage">
+
+    <div class="section " id="section0">
+
+    </div>
+
+    <div class="section" id="section1">
+
+    </div>
+
+    <div class="section" id="section2">
+
+    </div>
+
+
+    <div class="section" id="section3">
+	<div class="btn" id="btn">
+    <a href="mibbdaMain.five">미쁘다로 <br> 이동하기</a>
+  	 </div>
+	</div>
+	
+	<div class="blank"></div>
+	<div class="blank"></div>
+
+    </div>
+</div>
+
+</body>
+
+
+<script type="text/javascript" src="./js/fullpage.js"></script>
+<script type="text/javascript" src="./js/examples.js"></script>
+
+<script type="text/javascript">
+    var myFullpage = new fullpage('#fullpage', {
+
+       
+        onLeave: function (index, nextIndex, direction) {
+            console.log("ONLEAVE - index:" + index + " nextIndex:" + nextIndex + " direction:" + direction);
+
+        },
+    });
+</script>
+
+</body>
+</html>

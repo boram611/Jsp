@@ -1,0 +1,172 @@
+@charset "utf-8";
+/* CSS Document */
+
+#signup{
+	width:810px;
+	height:60px;
+	margin-left:225px;
+	margin-top:20px;
+}
+
+#signup01{
+	width:268px;
+	height:47px;
+	float:left;
+	background-color:#d9d9d8;
+	border:1px solid #6fa168;
+}
+
+.sign_img1{
+	width:30px;
+	height:35px;
+	float:left;
+	margin-left:70px;
+	margin-top:5px;
+}
+
+.sign_text1{
+	width:110px;
+	height:47px;
+	line-height:47px;
+	margin-right:50px;
+	float:right;
+	font-weight:bold;
+}
+
+#signup02{
+	width:268px;
+	height:47px;
+	float:left;
+	border:1px solid #6fa168;
+}
+
+.sign_img2{
+	width:30px;
+	height:35px;
+	float:left;
+	margin-left:60px;
+	margin-top:5px;
+}
+
+.sign_text2{
+	width:110px;
+	height:47px;
+	line-height:47px;
+	margin-right:60px;
+	float:right;
+	font-weight:bold;
+}
+
+#signup03{
+	width:268px;
+	height:47px;
+	float:left;
+	border:1px solid #6fa168;
+}
+
+
+.sign_img3{
+	width:30px;
+	height:35px;
+	float:left;
+	margin-left:60px;
+	margin-top:5px;
+}
+
+.sign_text3{
+	width:110px;
+	height:47px;
+	line-height:47px;
+	margin-right:60px;
+	float:right;
+	font-weight:bold;
+}
+#agree_01{
+	width:1250px;
+	margin:0 auto;
+	margin-top:50px;
+}
+#agree_02{
+	width:810px;
+	height:700px;
+	margin-left:225px;
+	margin-top:20px;
+}
+
+.a_wrap{
+      width: 810px;
+    }
+.a_wrap textarea {
+      width: 100%;
+	  height:200px;
+      resize: none;
+      padding: 1.1em; 
+      padding-bottom: 0.2em;
+      line-height: 1.6;
+}
+
+#text_top{
+	font-size:25px;
+	font-weight:bold;
+	text-align:left;
+}
+
+form{
+	margin-top:30px;
+}
+
+#a_button0 a{
+	color:#fff;
+	text-decoration:none;
+}
+
+
+
+#a_button0 {
+	width:200px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	border:1px solid #6fa168;
+	border-radius:3px;
+	display:block;
+	font-weight:bold;
+	color:black;
+	float:left;
+	margin-top:30px;
+	margin-left:185px;
+}
+
+#a_button0:hover {
+	color:#000;
+	background-color:#fff;
+}
+
+
+#a_button1 a{
+	color:#fff;
+	text-decoration:none;
+}
+
+
+
+#a_button1 {
+	width:200px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+	border:1px solid #6fa168;
+	border-radius:3px;
+	display:block;
+	font-weight:bold;
+	color:black;
+	float:left;
+	margin-left:30px;
+	margin-top:30px;
+}
+
+#a_button1:hover {
+	color:#000;
+	background-color:#fff;
+}
+
