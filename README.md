@@ -3,7 +3,7 @@
 # Jsp
 ## 구성
 
-![5조 001](https://user-images.githubusercontent.com/75714852/111779593-ac119600-88f9-11eb-8eb4-83614f42d303.jpeg)
+![5조 001](https://user-images.githubusercontent.com/75714852/112587011-1cf80700-8e40-11eb-9c58-baf0d2651227.jpeg)
 ![5조 002](https://user-images.githubusercontent.com/75714852/111779597-ae73f000-88f9-11eb-9a85-c9528ab1908f.jpeg)
 ![5조 003](https://user-images.githubusercontent.com/75714852/111779600-afa51d00-88f9-11eb-8089-46a8ea968834.jpeg)
 ![5조 004](https://user-images.githubusercontent.com/75714852/111779603-b0d64a00-88f9-11eb-991f-fa02c32b0e0c.jpeg)
